@@ -1,0 +1,24 @@
+{
+  "name": "anychart_v2",
+  "version": "1.0.0",
+  "description": "Grafico anychart con nodejs y mongoose —",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiju84/AnyChartV2.git"
+  },
+  "author": "javiju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiju84/AnyChartV2/issues"
+  },
+  "homepage": "https://github.com/javiju84/AnyChartV2#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.17",
+    "request": "^2.72.0"
+  }
+}
